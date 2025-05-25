@@ -23,11 +23,13 @@ This is a simple **Student Management System** built entirely in **Java**, using
 ---
 
 ## Project Structure
+```
 StudentManagementGUI/
 ├── Student.java # Represents a student entity
 ├── StudentManager.java # Manages student data in memory
 ├── StudentManagementGUI.java # Swing-based graphical interface
 └── Main.java # Application entry point
+```
 
 ---
 
